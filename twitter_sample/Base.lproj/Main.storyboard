@@ -514,7 +514,7 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="e8e-Tz-7od" kind="show" id="l8R-fR-3bb"/>
+                                    <segue destination="e8e-Tz-7od" kind="show" identifier="showProfileEditViweController" id="l8R-fR-3bb"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -564,6 +564,6 @@
         <image name="twitter_icon" width="73" height="73"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="l8R-fR-3bb"/>
+        <segue reference="RZl-GV-MA4"/>
     </inferredMetricsTieBreakers>
 </document>
